@@ -1,0 +1,99 @@
+[22-May-2015 14:53:47 Europe/Lisbon] PHP Warning:  include(importarScript.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/footer.php on line 10
+[22-May-2015 14:53:47 Europe/Lisbon] PHP Warning:  include(importarScript.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/footer.php on line 10
+[22-May-2015 14:53:47 Europe/Lisbon] PHP Warning:  include(): Failed opening 'importarScript.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/footer.php on line 10
+[22-May-2015 14:54:40 Europe/Lisbon] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/entrar.php on line 2
+[22-May-2015 14:54:40 Europe/Lisbon] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/entrar.php on line 2
+[22-May-2015 14:54:40 Europe/Lisbon] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/entrar.php on line 2
+[22-May-2015 14:54:40 Europe/Lisbon] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/entrar.php on line 19
+[22-May-2015 14:54:40 Europe/Lisbon] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/entrar.php on line 19
+[22-May-2015 14:54:40 Europe/Lisbon] PHP Warning:  include(): Failed opening 'login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/entrar.php on line 19
+[22-May-2015 14:55:13 Europe/Lisbon] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/index.php on line 22
+[22-May-2015 14:55:13 Europe/Lisbon] PHP Warning:  include(login.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/index.php on line 22
+[22-May-2015 14:55:13 Europe/Lisbon] PHP Warning:  include(): Failed opening 'login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/index.php on line 22
+[22-May-2015 14:55:24 Europe/Lisbon] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/entrar.php on line 2
+[22-May-2015 14:55:24 Europe/Lisbon] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/entrar.php on line 2
+[22-May-2015 14:55:24 Europe/Lisbon] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/entrar.php on line 2
+[25-May-2015 16:24:08 Europe/Lisbon] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/horarios.php on line 2
+[25-May-2015 16:24:08 Europe/Lisbon] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/horarios.php on line 2
+[25-May-2015 16:24:08 Europe/Lisbon] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/horarios.php on line 2
+[25-May-2015 17:04:18 Europe/Lisbon] PHP Warning:  include_once(DataAccess.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/index.php on line 17
+[25-May-2015 17:04:18 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'DataAccess.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/index.php on line 17
+[25-May-2015 17:04:18 Europe/Lisbon] PHP Fatal error:  Class 'DataAccess' not found in /home/gpsipt/public_html/tcb/index.php on line 18
+[25-May-2015 17:08:28 Europe/Lisbon] PHP Warning:  include_once(DataAccess.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/index.php on line 17
+[25-May-2015 17:08:28 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'DataAccess.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/index.php on line 17
+[25-May-2015 17:08:28 Europe/Lisbon] PHP Fatal error:  Class 'DataAccess' not found in /home/gpsipt/public_html/tcb/index.php on line 18
+[25-May-2015 17:08:44 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:44 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:44 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:44 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:45 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:45 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:45 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:45 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:45 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:45 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:45 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:45 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:08:46 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:04 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:04 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:05 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:05 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:05 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:05 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:22 Europe/Lisbon] PHP Warning:  include_once(DataAccess.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/index.php on line 17
+[25-May-2015 17:09:22 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'DataAccess.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/index.php on line 17
+[25-May-2015 17:09:22 Europe/Lisbon] PHP Fatal error:  Class 'DataAccess' not found in /home/gpsipt/public_html/tcb/index.php on line 18
+[25-May-2015 17:09:48 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:48 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:50 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:50 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:51 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:51 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:53 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:09:53 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:10:48 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:10:48 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:10:49 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:10:49 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:10:53 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:10:53 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:10:55 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:10:55 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:09 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:09 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:10 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:10 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:10 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:10 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:10 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:10 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:11 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:11 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:49 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:49 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:50 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:11:50 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:33:29 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:33:29 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:33:29 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:33:29 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:33:46 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:33:46 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:33:46 Europe/Lisbon] PHP Warning:  include_once(importarScript): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:33:46 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'importarScript' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 39
+[25-May-2015 17:33:49 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:33:49 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:33:50 Europe/Lisbon] PHP Warning:  include_once(topBar.php): failed to open stream: No such file or directory in /home/gpsipt/public_html/tcb/registar.php on line 6
+[25-May-2015 17:33:50 Europe/Lisbon] PHP Warning:  include_once(): Failed opening 'topBar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gpsipt/public_html/tcb/registar.php on line 6
